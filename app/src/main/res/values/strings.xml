@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">GetBus</string>
+    <string name="enter_mobile_number">Enter mobile number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+    <string name="welcome_image">Welcome Image</string>
+
+    <string name="slide_1_title">Hello Bus!</string>
+    <string name="slide_1_desc">The easiest way to get your bus!</string>
+
+    <string name="slide_2_title">Love travelling</string>
+    <string name="slide_2_desc">Just give a request and find it!</string>
+
+    <string name="slide_3_title">Great Discounts!!!</string>
+    <string name="slide_3_desc">You can travel to everyplace happily!!!</string>
+    <string name="slider_deo">Slider Demo</string>
+    <string name="page_changed">Page Changed:</string>
+    <string name="cupcake">CupCake</string>
+    <string name="donut">Donut</string>
+    <string name="ecliar">Eclair</string>
+    <string name="froyo">Froyo</string>
+    <string name="ginger">GingerBread</string>
+    <string name="url1">http://androidblog.esy.es/images/cupcake-1.png</string>
+    <string name="url2">http://androidblog.esy.es/images/donut-2.png</string>
+    <string name="url3">http://androidblog.esy.es/images/eclair-3.png</string>
+    <string name="url4">http://androidblog.esy.es/images/froyo-4.png</string>
+    <string name="url5">http://androidblog.esy.es/images/gingerbread-5.png</string>
+</resources>
